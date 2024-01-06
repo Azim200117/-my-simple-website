@@ -1,0 +1,100 @@
+#home{
+    text-decoration: none;
+    font-size: 17px;
+    color: navy;
+    font-weight: 700;
+    float: right;
+    margin-top: 15px;
+
+}
+
+.full-body{
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family: 'Tilt Neon', cursive;
+
+}
+
+.head1{
+    font-size: 40px;
+    font-weight: 800;
+    color: navy;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+
+}
+
+.flex-container{
+    display: flex;
+
+}
+
+.space{
+    margin-left: 20px;
+
+}
+
+.box-1{
+    height: 30px;
+    width: 250px;
+
+}
+
+.box-2{
+    height: 45px;
+    width: 540px;
+    font-family: 'Tilt Neon', cursive;
+    font-size: 15px;
+    padding: 6px;
+
+}
+
+.label{
+    font-size: 18px;
+
+}
+
+.box-4{
+    height: 30px;
+    width: 358px;
+
+}
+
+.mark-area{
+    color: #664d03;
+    background-color: #fff3cd;
+    border-color: #ffecb5;
+    position: relative;
+    padding: 1rem 1rem;
+    margin-bottom: 1rem;
+    border: 1px solid transparent;
+    border-radius: .25rem;
+
+}
+
+.center{
+    text-align: center;
+
+}
+
+.btn{
+    font-family:'Tilt Neon', cursive ;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #1e90FF;
+    width: 180px;
+    padding: 20px;
+    text-align: center;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+
+}
+
+input{
+    font-family:'Tilt Neon', cursive ;
+    font-size: 16px;
+
+}
